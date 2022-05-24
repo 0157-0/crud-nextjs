@@ -1,23 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Features
 
-## Getting Started
+- Projeto de estudo com Next.Js + Firebase.
+- Foi desenvolvido um CRUD de admin para controle de pessoas, com as opções padrões de criar, ler, alterar e deletar.
 
-First, run the development server:
+# Cadastro Simples
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![telaInicial](https://user-images.githubusercontent.com/81245999/170046733-b2f53b3b-efc6-4c9f-b4e5-6e0203d581ce.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![telaCRIAR](https://user-images.githubusercontent.com/81245999/170047066-763f0355-e3e9-4e5a-891d-b47d4bbc2fba.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 💻 Pré-requisitos
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🚀 Instalando
 
+Para instalar o Projeto, siga estas etapas:
+
+`<npm run dev>`
+ or
+`<yarn dev>`
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
