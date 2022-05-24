@@ -1,6 +1,6 @@
 ### Features
 
-- Projeto de estudo com Next.Js + Firebase.
+- Projeto de estudo com Next.Js e TailwindCss + Firebase.
 - Foi desenvolvido um CRUD de admin para controle de pessoas, com as opções padrões de criar, ler, alterar e deletar.
 
 # Cadastro Simples
